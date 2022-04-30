@@ -1,0 +1,24 @@
+.div div {
+  display: flex;
+  align-items: center;
+  border: 1px solid #fff;
+  margin: 10px 0px;
+  justify-content: space-around;
+}
+.div a {
+  text-decoration: none;
+  color: #fff;
+}
+.div h1 {
+  margin: 0px;
+  text-transform:capitalize;
+  width: 300px;
+}
+.div button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    padding:5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
